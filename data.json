@@ -1,4 +1,13 @@
-[{ "brand": "Samsung", "model": "A1", "cost": "15299", "U": "30000" },
-    { "brand": "Xiaomi", "model": "Note 8 pro", "cost": "11350", "U": "30000" },
-    { "brand": "Apple", "model": "iphone 10x", "cost": "79999", "U": "30000", "Descr": "Кирпич" }
+[{
+        "login": "rusal",
+        "pass": "12345",
+        "FIO": "Aleksey",
+        "data": { "passport": "4208836132", "INN": "78438745875487", "SNILS": "143-434-122-80" }
+    },
+    {
+        "login": "misha",
+        "pass": "12345",
+        "FIO": "Masha",
+        "data": { "passport": "434343554", "INN": "65435454656565", "SNILS": "888-222-132-30" }
+    }
 ]
